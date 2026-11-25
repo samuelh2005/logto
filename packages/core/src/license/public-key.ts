@@ -18,7 +18,7 @@ import { licenseConsoleLog } from './console.js';
  * on.
  */
 const bakedInPublicKey =
-  '{"kty":"EC","crv":"P-256","x":"KwjnhY3qJ6GjBiYRbeTR50QeHEncCawp_ZMzvYqWDOI","y":"VqTtKHPL3OsJ5ja5aibwZk7aolKMN3BmFEQd_-uO2s8"}';
+  '{"kty":"EC","x":"QB0n7p2wtHtUYA_XYXj43Ivo5vvf6qhZ-aAwbiIkYAs","y":"XzyIEKZ6SRbZVGmmkGh4YA6b6pNkMGjdx_0OlSfhb6c","crv":"P-256"}';
 
 /**
  * An ES256 public key in JWK form, i.e. what `jose` exports an `ES256` public key to.
